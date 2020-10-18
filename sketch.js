@@ -41,7 +41,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);  
+  background('lime');  
   
   rectMode(CENTER);
 //   ellipse(bodies.position.x, bodies.position.y, 20, 20);
@@ -58,3 +58,5 @@ function draw() {
 
     pig1.displayPig2();
 }
+
+//testing y not
